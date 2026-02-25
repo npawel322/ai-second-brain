@@ -30,4 +30,4 @@ ollama pull llama3
 
 ```
 ## 📺 Demo
-![AI Second Brain Demo](assets/emo.mp4)
+![AI Second Brain Demo](assets/demo.mp4)
