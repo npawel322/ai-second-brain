@@ -1,0 +1,13 @@
+# Środowisko wirtualne
+venv/
+.env
+__pycache__/
+*.pyc
+
+# Dane i logi
+data_storage/
+.ipynb_checkpoints/
+
+# Pliki systemowe
+.DS_Store
+Thumbs.db

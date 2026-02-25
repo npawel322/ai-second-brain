@@ -1,0 +1,5 @@
+TIPY PYTHON:
+- Dekorator @property pozwala traktować metodę jak atrybut klasy.
+- List Comprehension jest zazwyczaj szybsze niż pętla for przy tworzeniu nowych list.
+- Do zarządzania zależnościami w tym projekcie używamy 'venv'.
+- Biblioteka LlamaIndex służy do łączenia dużych modeli językowych (LLM) z własnymi źródłami danych.

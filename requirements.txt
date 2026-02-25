@@ -1,0 +1,12 @@
+# Framework RAG
+llama-index==0.10.0
+# Obsługa bazy wektorowej Qdrant
+llama-index-vector-stores-qdrant
+# Łącznik z lokalną Ollamą
+llama-index-llms-ollama
+# Model do embeddingów (lokalny z HuggingFace)
+llama-index-embeddings-huggingface
+# Biblioteka kliencka Qdrant
+qdrant-client
+# (Opcjonalnie) Interfejs użytkownika
+streamlit
