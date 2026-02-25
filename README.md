@@ -28,4 +28,4 @@ docker run -p 6333:6333 qdrant/qdrant
 # Pobranie modelu Llama 3
 ollama pull llama3
 ## 📺 Demo
-![AI Second Brain Demo](demo.mp4)
+![AI Second Brain Demo](Demo.mp4)
