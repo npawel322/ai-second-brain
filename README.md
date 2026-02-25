@@ -30,4 +30,7 @@ ollama pull llama3
 
 ```
 ## 📺 Demo
-![AI Second Brain Demo](assets/demo.mp4)
+<div align="center">
+  <h3>📺 Demo Systemu w Akcji</h3>
+  <video src="assets/demo.mp4" width="100%" controls></video>
+</div>
